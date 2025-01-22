@@ -27,10 +27,11 @@ Contributions are what make the open-source community such an amazing place to b
 Create your Feature Branch
 Commit your Changes 
 Open a Pull Request
-License
+
+#License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
+#Contact
 MD Sirajul Islam - @SIRAJULSHOJIB - mdsirajulislamshojib80@gmail.com
 
 Project Link: https://github.com/SHOJIB-80/3D-Image-Rotation-
